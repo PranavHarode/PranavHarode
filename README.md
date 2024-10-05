@@ -1,2 +1,2 @@
 # PROJECTS-PY
-Config files for my GitHub profile.
+This is a files for my GitHub mew profile.
